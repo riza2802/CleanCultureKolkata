@@ -9,7 +9,7 @@ body{
 h2{
 	border: 2px solid black;
   color: rgb(255, 255, 255);
-  background-color: rgb(51, 108, 214);
+  background-color: rgb(206, 210, 216);
 	font-size: 30px;
 	line-height: 48px;
   text-align: center;
@@ -17,9 +17,22 @@ h2{
   margin: 30px 20px;
 
 }
+#About{
+  color: black;
+  font-size: large;
+  background-color: white;
+}
 p{
   margin-top: 60px;
+  padding-left: 60px;
   font-size: larger;
+}
+#OurTeam{
+  color: black;
+
+}
+#GetinTouch{
+  color: rgb(255, 255, 255);
 }
 h1 {
   color: #31bdb5;
