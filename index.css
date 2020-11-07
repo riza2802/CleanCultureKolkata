@@ -1,0 +1,84 @@
+body{
+	font-family: work-sans;
+}
+#logo{
+  height: 300px;
+  width: 800px;
+  margin: 0 20%;
+}
+h2{
+	border: 2px solid black;
+  color: rgb(255, 255, 255);
+  background-color: rgb(51, 108, 214);
+	font-size: 30px;
+	line-height: 48px;
+  text-align: center;
+  padding: 20px 30px;
+  margin: 30px 20px;
+
+}
+p{
+  margin-top: 60px;
+  font-size: larger;
+}
+h1 {
+  color: #31bdb5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-size: xx-large;
+  color: rgb(112, 114, 113);
+}
+.intro{
+  font-size: 70px;
+  font-family: work-sans;
+  color: black;
+
+}
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+.share {
+  border: 1px solid LightGrey;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+.share a {
+  background: yellow;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  padding: 14px;
+  text-decoration: none;
+}
+.navbar{
+  color:blue;
+  width: 100%;
+  overflow: auto;
+}
+.navbar a {
+  float: left;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  align-content: center;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
